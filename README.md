@@ -11,8 +11,7 @@ Search Functionality: Search books by title, author, or category. <br/>
 Responsive Design: Ensures usability across various devices, including desktops, tablets, and mobile phones. <br/>
 
 Technologies Used <br/>
-
-Backend
+Backend <br/>
 Java: Core programming language used for backend logic. <br/>
 Spring Boot: Framework used for building the RESTful APIs and handling business logic. <br/>
 Hibernate: For ORM (Object-Relational Mapping) to interact with the database. <br/>
